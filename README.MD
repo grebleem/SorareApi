@@ -38,7 +38,7 @@ variables:
 ```
 
 Sorare team-slugs:
-```json
+```
 {
   'milwaukee-brewers', 
   'houston-astros', 
